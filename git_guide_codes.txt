@@ -1,0 +1,14 @@
+cd (folder name - ensure folder is empty)
+
+echo "# temp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tuhinharit/temp.git
+git push -u origin main
+
+(add files)
+git add -A (add all)
+git commit -m "Message"
+git push
