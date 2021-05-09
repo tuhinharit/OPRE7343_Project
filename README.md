@@ -1,1 +1,2 @@
 "# OPRE7343_Project" 
+The codes are borrowed from Kai Li, Feng Mai, Rui Shen, Xinyan Yan, Measuring Corporate Culture Using Machine Learning, The Review of Financial Studies, 2020; DOI:10.1093/rfs/hhaa079 [Available at SSRN]
